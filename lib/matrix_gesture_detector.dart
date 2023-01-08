@@ -34,6 +34,7 @@ class MatrixGestureDetector extends StatefulWidget {
   ///
   final bool shouldTranslate;
 
+    
   /// Whether to detect scale gestures during the event processing.
   ///
   /// Defaults to true.
